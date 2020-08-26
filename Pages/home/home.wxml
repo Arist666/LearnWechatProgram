@@ -1,3 +1,6 @@
 <!--Pages/home/home.wxml-->
 <text class="title">微信小程序</text>
 <button size="mini">上传</button>
+
+<view>1.知识点2</view>
+<view>哈哈哈哈</view>
